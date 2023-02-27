@@ -9,7 +9,6 @@
 
 import pandas as pd
 import streamlit as st
-import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.multioutput import MultiOutputRegressor
 from sklearn.linear_model import LinearRegression
