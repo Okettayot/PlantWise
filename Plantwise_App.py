@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import joblib
+import joblib as joblib
 
 # Load the saved model
 filename = 'Plantwise_model.joblib'
