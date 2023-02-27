@@ -3,10 +3,6 @@
 
 # In[15]:
 
-
-pip install streamlit
-
-
 # In[16]:
 
 
