@@ -2,20 +2,8 @@
 # coding: utf-8
 
 # In[1]:
-
-
-pip install streamlit
-
-
 # In[2]:
-
-
-pip install joblib
-
-
 # In[3]:
-
-
 import pandas as pd
 import streamlit as st
 import joblib
